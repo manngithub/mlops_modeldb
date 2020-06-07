@@ -2,8 +2,8 @@ ModelDB: An open-source system for Machine Learning model versioning, metadata, 
 
 Here I show two examples from [Verta.ai documentation](https://docs.verta.ai/en/master/examples/examples.html) -
 
-Example1.ipynb: Tensorflow's Keras API for building neural networks
-Example2.ipynb: XGboost model development and cross-validation
+* Example1.ipynb: Tensorflow's Keras API for building neural networks
+* Example2.ipynb: XGboost model development and cross-validation
 
 Both examples shows the digit classification model development and logging of artifacts using ModelDB.
 ![image](image.png)
